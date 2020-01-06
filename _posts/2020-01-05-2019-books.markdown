@@ -1,10 +1,31 @@
 ---
 layout: post
-title:  "An introduction"
+title:  "My 2019 Climate Change Books"
 date:   2020-01-05 10:18:00
 categories:
 ---
 
-# My 2019 Climate Change Books
+In 2019 I decided to focus my reading on climate change and the environment more broadly. I started the year off with a broad book that discussed climate change and its impacts. From there, I began going deeper on specific areas such as climate change's impact on food and sea level rise as well as the impact plastic is having on our environment.
 
-The Uninhabitable Earth
+### The Uninhabitable Earth - Life After Warming
+In The Uninhabitable Earth, Dave Wallace-Wells outlines the challenging realities for almost every aspect of our lives. This book was fact-filled and did a good job of articulating what scientists have been struggling to communicate to the general public for decades. This is the book the kicked off my year and inspired me to learn more about climate change and our environment for the rest of 2019.
+
+### Climate: A New Story
+Climate - A New Story focuses on how to discuss the issue of climate change with everyone and 
+
+### Project Drawdown
+
+
+### The Water Will Come
+
+
+### The Fate of Food
+
+
+### IPCC Reports & Others
+Climate Change is happening in real-time and the science is constantly evolving. Reading reports from the IPCC and other organizations is becoming the fastest and most efficient way to learn about the current impact we're having on our environment. In 2019, several reports were released that are worth reading:
+
+- [IPCC Special Report: The Ocean and Cryosphere in a Changing Climate](https://www.ipcc.ch/srocc/)
+- [IPCC Special Report: IPCC Special Report: Climate Change and Land](https://www.ipcc.ch/srccl/)
+
+In 2020 I'm continuing to read more about climate change with a focus on geo-engineering, climate diplomacy and the impacts of landuse on C02. I'll follow up next year with a highlight reel of 2020's books!
